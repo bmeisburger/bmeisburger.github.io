@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//bmeisburger.github.io/</loc>
+    <lastmod>2022-07-11T22:34:00-05:00</lastmod>
+  </url><url>
+    <loc>//bmeisburger.github.io/tags/chicken/</loc>
+    <lastmod>2022-07-11T22:34:00-05:00</lastmod>
+  </url><url>
+    <loc>//bmeisburger.github.io/mains/poultry/chicken-marbella/</loc>
+    <lastmod>2022-07-11T22:34:00-05:00</lastmod>
+  </url><url>
+    <loc>//bmeisburger.github.io/mains/</loc>
+    <lastmod>2022-07-11T22:34:00-05:00</lastmod>
+  </url><url>
+    <loc>//bmeisburger.github.io/tags/marinade/</loc>
+    <lastmod>2022-07-11T22:34:00-05:00</lastmod>
+  </url><url>
+    <loc>//bmeisburger.github.io/tags/olives/</loc>
+    <lastmod>2022-07-11T22:34:00-05:00</lastmod>
+  </url><url>
+    <loc>//bmeisburger.github.io/mains/poultry/</loc>
+    <lastmod>2022-07-11T22:34:00-05:00</lastmod>
+  </url><url>
+    <loc>//bmeisburger.github.io/tags/prunes/</loc>
+    <lastmod>2022-07-11T22:34:00-05:00</lastmod>
+  </url><url>
+    <loc>//bmeisburger.github.io/tags/savory/</loc>
+    <lastmod>2022-07-11T22:34:00-05:00</lastmod>
+  </url><url>
+    <loc>//bmeisburger.github.io/tags/</loc>
+    <lastmod>2022-07-11T22:34:00-05:00</lastmod>
+  </url><url>
     <loc>//bmeisburger.github.io/tags/avocado/</loc>
     <lastmod>2022-06-02T22:19:18-05:00</lastmod>
   </url><url>
@@ -12,12 +42,6 @@
     <lastmod>2022-06-02T22:19:18-05:00</lastmod>
   </url><url>
     <loc>//bmeisburger.github.io/tags/fish/</loc>
-    <lastmod>2022-06-02T22:19:18-05:00</lastmod>
-  </url><url>
-    <loc>//bmeisburger.github.io/</loc>
-    <lastmod>2022-06-02T22:19:18-05:00</lastmod>
-  </url><url>
-    <loc>//bmeisburger.github.io/mains/</loc>
     <lastmod>2022-06-02T22:19:18-05:00</lastmod>
   </url><url>
     <loc>//bmeisburger.github.io/tags/mango/</loc>
@@ -35,12 +59,6 @@
     <loc>//bmeisburger.github.io/tags/taco/</loc>
     <lastmod>2022-06-02T22:19:18-05:00</lastmod>
   </url><url>
-    <loc>//bmeisburger.github.io/tags/</loc>
-    <lastmod>2022-06-02T22:19:18-05:00</lastmod>
-  </url><url>
-    <loc>//bmeisburger.github.io/tags/chicken/</loc>
-    <lastmod>2022-06-02T21:55:45-05:00</lastmod>
-  </url><url>
     <loc>//bmeisburger.github.io/tags/cream/</loc>
     <lastmod>2022-06-02T21:55:45-05:00</lastmod>
   </url><url>
@@ -51,9 +69,6 @@
     <lastmod>2022-06-02T21:55:45-05:00</lastmod>
   </url><url>
     <loc>//bmeisburger.github.io/tags/pasta/</loc>
-    <lastmod>2022-06-02T21:55:45-05:00</lastmod>
-  </url><url>
-    <loc>//bmeisburger.github.io/mains/poultry/</loc>
     <lastmod>2022-06-02T21:55:45-05:00</lastmod>
   </url><url>
     <loc>//bmeisburger.github.io/tags/sun-dried-tomatoes/</loc>
